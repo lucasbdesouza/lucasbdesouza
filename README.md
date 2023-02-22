@@ -2,6 +2,7 @@
 
 - 🔎 Hoje trabalho com Análise de Dados
 - 📚 Estudando Python
+- ✔  Hard Skills: Excel, Power BI, SQL
 
 ##
 
