@@ -8,7 +8,7 @@
 
 Formado em Análise e Desenvolvimento de Sistemas e Cursando Ciência de Dados, sou apaixonado por tecnologia, principalmente pela área de dados, busco resolver problemas traduzindo dados em informações. Trabalho com o desenvolvimento de Dashboard para agregar informações relevantes para o crescimento e gestão da empresa.
 
-Possuo 1 ano de experiência como Analista de BI e participei da mentoria Data Mundo onde aprimorei minhas hard e soft skills. 
+Participei durante 1 ano da mentoria Data Mundo onde aprendi e aprimorei minhas hard e soft skills. 
 
 
 ##
