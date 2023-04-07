@@ -1,12 +1,12 @@
 ### Olá! Eu sou o Lucas Souza 👋
 
-- 🔎 Hoje trabalho com Análise de Dados
-- 📚 Estudando Python
-- ✔  Hard Skills: Excel, Power BI, SQL
+- 🔎 Pretendo trabalhar no cargo de Analista de Dados ou Cientista de Dados
+- 📚 Estudando Machine Learning
+- ✔  Hard Skills: Excel, Power BI, SQL e Python
 
 ##
 
-Formado em Análise e Desenvolvimento de Sistemas e apaixonado por tecnologia, principalmente pela área de dados, busco resolver problemas traduzindo dados em informações. Trabalho com o desenvolvimento de Dashboard para agregar informações relevantes para o crescimento e gestão da empresa.
+Formado em Análise e Desenvolvimento de Sistemas e Cursando Ciência de Dados, sou apaixonado por tecnologia, principalmente pela área de dados, busco resolver problemas traduzindo dados em informações. Trabalho com o desenvolvimento de Dashboard para agregar informações relevantes para o crescimento e gestão da empresa.
 
 Possuo 1 ano de experiência como Analista de BI e participei da mentoria Data Mundo onde aprimorei minhas hard e soft skills. 
 
