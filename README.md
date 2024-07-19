@@ -6,9 +6,9 @@
 
 ##
 
-Formado em Análise e Desenvolvimento de Sistemas e Cursando Ciência de Dados, sou apaixonado por tecnologia, principalmente pela área de dados, busco resolver problemas traduzindo dados em informações. Trabalho com o desenvolvimento de Dashboard para agregar informações relevantes para o crescimento e gestão da empresa.
+Olá! Meu nome é Lucas Barbosa de Souza, tenho 23 anos, sou formado em Análise e Desenvolvimento de Sistemas e tenho mais de 2 anos de experiência na área de Data Analytics.
 
-Participei durante 1 ano da mentoria Data Mundo onde aprendi e aprimorei minhas hard e soft skills. 
+Apaixonado por Tecnologia, principalmente pela área de dados, busco resolver problemas traduzindo dados em informações. Trabalho com o desenvolvimento de Dashboard para agregar informações relevantes para o crescimento e gestão da empresa.
 
 
 ##
