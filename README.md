@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Lucas Souza 👋
 
-- 🔎 Pretendo trabalhar no cargo de Analista de Dados ou Cientista de Dados
+- 🔎 Analista de Dados
 - 📚 Estudando Machine Learning
 - ✔  Hard Skills: Excel, Power BI, SQL e Python
 
