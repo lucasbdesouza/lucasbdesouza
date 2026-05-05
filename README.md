@@ -1,4 +1,4 @@
-### Olá! Eu sou o Lucas Souza 👋
+### Sobre mim
 
 
 ##
