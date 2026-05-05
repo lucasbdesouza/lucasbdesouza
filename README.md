@@ -1,14 +1,25 @@
 ### Olá! Eu sou o Lucas Souza 👋
 
-- 🔎 Analista de Dados
-- 📚 Estudando Machine Learning
-- ✔  Hard Skills: Excel, Power BI, SQL e Python
 
 ##
 
-Olá! Meu nome é Lucas Barbosa de Souza, tenho 23 anos, sou formado em Análise e Desenvolvimento de Sistemas e tenho mais de 2 anos de experiência na área de Data Analytics.
-
-Apaixonado por Tecnologia, principalmente pela área de dados, busco resolver problemas traduzindo dados em informações. Trabalho com o desenvolvimento de Dashboard para agregar informações relevantes para o crescimento e gestão da empresa.
+Ajudo empresas a transformar dados em insights acionáveis, construindo soluções de dados de ponta a ponta, da ingestão à geração de valor para o negócio.
+ 
+Analista de Dados com +4 anos de experiência em integração, transformação e modelagem de dados, com foco na construção de pipelines e bases analíticas para suportar decisões estratégicas.
+ 
+Atuo com ETL/ELT, integração de dados via APIs (especialmente CRMs) e bancos relacionais, desenvolvendo pipelines automatizados em Python para garantir informações confiáveis, atualizadas e escaláveis.
+ 
+Forte domínio em SQL, com experiência em consultas complexas, tratamento e transformação de dados, modelagem e otimização de queries para análises e dashboards.
+ 
+Estruturo camadas de dados para consumo analítico, organizando transformações e garantindo consistência, performance e confiabilidade das informações.
+ 
+No Power BI, desenvolvo dashboards estratégicos voltados à tomada de decisão, estruturando métricas, aplicando DAX e boas práticas de modelagem e visualização.
+ 
+Também atuo na automação de processos, reduzindo retrabalho manual e aumentando a eficiência na geração de insights para áreas de negócio.
+ 
+Stack: SQL (MySQL, PostgreSQL) | Python (Pandas, integração com APIs, automação) | Power BI (DAX, modelagem, dashboards) | Excel Avançado | ETL/ELT | Data Modeling | Data Visualization | APIs REST
+ 
+Soft Skills: Comunicação clara | Pensamento analítico | Resolução de problemas | Raciocínio lógico | Trabalho em equipe | Metodologias ágeis | Storytelling com dados
 
 
 ##
